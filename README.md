@@ -1,6 +1,8 @@
 # TP_INTEGRADOR_GRUPO_1
 Número de comisión: 010
+
 Grupo: 1
+
 Integrantes:
 - Baldezari, Facundo
 - Ghiglia, Ramiro
